@@ -2,7 +2,8 @@
   <br>
   <br>
   My name is Mark and I'm an AP Graduate in Computer Science, from Copenhagen</h2>
-
+<h3>I design and build software with a focus on clarity, reliability, and continuous learning.
+</h3>
 ###
 
 <div align="center">
